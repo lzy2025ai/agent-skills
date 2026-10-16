@@ -1,0 +1,4 @@
+interface:
+  display_name: "WeChat Local Bridge"
+  short_description: "Use or set up the local WeChat CLI bridge"
+  default_prompt: "Use $wechat-local-bridge to read local WeChat messages or send a confirmed text through the local WeChat CLI bridge."
